@@ -3,4 +3,4 @@
 All my Data analysis, Dataviz and Competition on Kaggle datasets (with SAS, Python or R)
 
 
-- [Titanic](linktitanic)
+- [Titanic](https://github.com/NicoDupont/Kaggle/tree/master/Titanic)
