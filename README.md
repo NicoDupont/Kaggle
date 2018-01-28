@@ -4,3 +4,4 @@ All my Data analysis, Dataviz and Competition on Kaggle datasets
 
 
 - [Titanic](https://github.com/NicoDupont/Kaggle/tree/master/Titanic)
+- [House Prices](https://github.com/NicoDupont/Kaggle/tree/master/HousePrices)
