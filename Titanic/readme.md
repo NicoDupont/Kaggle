@@ -8,5 +8,5 @@ Contributor(s) :
 #### **[Titanic Survival](https://www.kaggle.com/c/titanic)**
 
 
-	[Notebook Python](https://github.com/NicoDupont/Kaggle/blob/master/Titanic/TitanicKaggleEdaAndMlWithPython.ipynb)
-	[Notebook SAS](https://github.com/NicoDupont/Kaggle/blob/master/Titanic/TitanicKaggleEdaAndMlWithSas.ipynb)
+ - [Notebook Python](https://github.com/NicoDupont/Kaggle/blob/master/Titanic/TitanicKaggleEdaAndMlWithPython.ipynb)
+ - [Notebook SAS](https://github.com/NicoDupont/Kaggle/blob/master/Titanic/TitanicKaggleEdaAndMlWithSas.ipynb)
