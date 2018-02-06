@@ -9,4 +9,3 @@ Contributor(s) :
 
 
  - [NotebookPython](https://github.com/NicoDupont/Kaggle/blob/master/HousePrices/HousePricesKaggleEdaAndMlWithPython.ipynb)
- - [Notebook SAS](https://github.com/NicoDupont/Kaggle/blob/master/HousePrices/HousePricesKaggleEdaAndMlWithSas.ipynb)
