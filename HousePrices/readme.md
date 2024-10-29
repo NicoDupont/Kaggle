@@ -8,4 +8,4 @@ Contributor(s) :
 #### **[House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)**
 
 
- - [NotebookPython](https://github.com/NicoDupont/Kaggle/blob/master/HousePrices/HousePricesKaggleEdaAndMlWithPython.ipynb)
+ - [NotebookPython](https://github.com/NicoDupont/Kaggle/blob/master/HousePrices/house-prices-data-analysis-machine-learning.ipynb)
